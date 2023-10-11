@@ -14,8 +14,6 @@ Meu nome é Bruna, mas pode me chamar de Bru. Tenho 31 anos e estou me aprofunda
 ### Redes Sociais
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessicamedeirospocarli/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.linkedin.com/in/brunarodferreira/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/itsbruni)
 
 ### Linguagens
 
